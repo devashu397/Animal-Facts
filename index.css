@@ -1,0 +1,186 @@
+body {
+  background-color: dodgerblue;
+  font-family: "Poppins", sans-serif;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+  color: #083d55;
+}
+
+h2.dfinfo {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+h3.df {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+div.dfbutton {
+  text-align: center;
+}
+
+button.dfbutton {
+  font-family: "Poppins", sans-serif;
+  height: 30px;
+  width: 200px;
+}
+
+h2.cfinfo {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+h3.cf {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+div.cfbutton {
+  text-align: center;
+}
+
+button.cfbutton {
+  font-family: "Poppins", sans-serif;
+  height: 30px;
+  width: 200px;
+}
+
+h2.pfinfo {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+h3.pf {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+div.pfbutton {
+  text-align: center;
+}
+
+button.pfbutton {
+  font-family: "Poppins", sans-serif;
+  height: 30px;
+  width: 200px;
+}
+
+h2.rpfinfo {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+h3.rpf {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+div.rpfbutton {
+  text-align: center;
+}
+
+button.rpfbutton {
+  font-family: "Poppins", sans-serif;
+  height: 30px;
+  width: 200px;
+}
+
+h2.ffinfo {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+h3.ff {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+div.ffbutton {
+  text-align: center;
+}
+
+button.ffbutton {
+  font-family: "Poppins", sans-serif;
+  height: 30px;
+  width: 200px;
+}
+
+h2.rf2info {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+h3.rf2 {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+div.rf2button {
+  text-align: center;
+}
+
+button.rf2button {
+  font-family: "Poppins", sans-serif;
+  height: 30px;
+  width: 200px;
+}
+
+h2.kfinfo {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+h3.kf {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+div.kfbutton {
+  text-align: center;
+}
+
+button.kfbutton {
+  font-family: "Poppins", sans-serif;
+  height: 30px;
+  width: 200px;
+}
+
+h2.kf2info {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+h3.kf2 {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+div.kf2button {
+  text-align: center;
+}
+
+button.kf2button {
+  font-family: "Poppins", sans-serif;
+  height: 30px;
+  width: 200px;
+}
